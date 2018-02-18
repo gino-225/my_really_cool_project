@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 THIS IS README FILE. it totaly AWeSOME
+=======
+ADDED DOME MORE TEXT TO CHECK OUT THE MERGE CONFLICT
+THIS IS README FILE. AWSOME
+>>>>>>> foo_feature
 
 This project will help Treehouse students learn about working with Git Repositories.
